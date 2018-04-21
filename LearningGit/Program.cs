@@ -14,6 +14,8 @@ namespace LearningGit
 		[STAThread]
 		static void Main()
 		{
+			// Some Changes (1)
+
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
